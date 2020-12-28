@@ -24,10 +24,10 @@ layout: default
   {% include vertical_list.html collection=site.data.home.misc_entries %}
 {% endif %}
 
-
-{# <h2>Blog</h2>
+{% if false %}
+<h2>Blog</h2>
 {% include post_list.html %}
-#}
+{% endif %}
 
 {% if site.theme_config.show_old_projects == true %}
   <h2>Old Projects</h2>
