@@ -62,17 +62,14 @@ old_project_entries:
     highlight: archived
 
 footer_entries:
-  - title: abhinav's homepage
-    url: http://www.abhinav.co
+  - title: LinkedIn
+    url: https://www.linkedin.com/company/x13consulting/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: GitHub
+    url: https://github.com/X13consulting
 
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+  # - title: feed
+  #   url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
