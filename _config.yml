@@ -2,7 +2,11 @@ title: Moonwalk
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  We offer consulting focused on cloud, Open Source, Kubernetes and Linux, as well as automation of both infrastructure and development processes.
+  Our background is comprehensive and broad within these areas and others, and our consultants have provided expert level services in Norway and several other European countries.
+  We base our company on the principles of cooperation, sharing and equality, as well as our passion for exploring new technology and making it work for our customers.
+  Please contact us if you are interested in our services, and working together on your project.
+
 
 permalink: /:slug.html
 
