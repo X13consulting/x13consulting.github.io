@@ -8,6 +8,17 @@ navbar_entries:
   - title: website
     url: http://www.abhinav.co
 
+referanser:
+  - title: Referanse 1
+    url: https://www.example.com
+    desc: Beskrivelse i referansen
+  - title: Referanse 2
+    url: https://www.example.com
+    desc: Beskrivelse i referansen
+  - title: Referanse 3
+    url: https://www.example.com
+    desc: Beskrivelse i referansen
+
 project_entries:
   - title: Project 1
     url: overview-post
