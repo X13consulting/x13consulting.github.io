@@ -1,12 +1,14 @@
 title: X13 Consulting AS
 author: 
-url: https://x13.no # root address of the site
+url: https://x13consulting.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   We offer consulting focused on cloud, Open Source, Kubernetes and Linux, as well as automation of both infrastructure and development processes.
-  Our background is comprehensive and broad within these and other areas, and our partners have provided expert level consuting in Norway and several other European countries.
+  </p><p>
+  Our background is comprehensive and broad within these and other areas, and our partners have provided expert level consulting in Norway and several other European countries.
+  </p><p>
   We base our company on the principles of cooperation, sharing and equality, as well as our passion for exploring new technology - and making it work for our customers.
+  </p><p>
   Please contact us if you are interested in our services, and working together on your project.
-
 
 permalink: /:slug.html
 
