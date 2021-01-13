@@ -8,11 +8,12 @@ layout: default
   <div class="dashed" />
 {% endif %}
   <img src="images/x13_final_nontransp.png" />
+</header>
+
   <h1>About us</h1>
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
-</header>
 
   <h2>References</h2>
   {% include card_list.html collection=site.data.home.referanser %}
