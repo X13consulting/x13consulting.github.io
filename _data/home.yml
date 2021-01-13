@@ -9,15 +9,15 @@ navbar_entries:
     url: http://www.abhinav.co
 
 referanser:
-  - title: Referanse 1
+  - title: Reference 1
     url: https://www.example.com
-    desc: Beskrivelse i referansen
-  - title: Referanse 2
+    desc: Description
+  - title: Reference 2
     url: https://www.example.com
-    desc: Beskrivelse i referansen
-  - title: Referanse 3
+    desc: Description
+  - title: Reference 3
     url: https://www.example.com
-    desc: Beskrivelse i referansen
+    desc: Description
 
 project_entries:
   - title: Project 1
